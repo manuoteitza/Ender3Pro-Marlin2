@@ -276,8 +276,8 @@ namespace Language_eu {
   PROGMEM Language_Str MSG_INFO_BAUDRATE                   = _UxGT("Baudioak");
   PROGMEM Language_Str MSG_INFO_PROTOCOL                   = _UxGT("Protokoloa");
   PROGMEM Language_Str MSG_CASE_LIGHT                      = _UxGT("Kabina Argia");
-  PROGMEM Language_Str MSG_CASE_LIGHT_BRIGHTNESS
-  = ;
+  PROGMEM Language_Str MSG_CASE_LIGHT_BRIGHTNESS           = _UxGT("Kabina Argiaren distira");
+
   #if LCD_WIDTH >= 20
     PROGMEM Language_Str MSG_INFO_PRINT_COUNT              = _UxGT("Inprim. Zenbaketa");
     PROGMEM Language_Str MSG_INFO_COMPLETED_PRINTS         = _UxGT("Burututa");
